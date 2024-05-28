@@ -1,6 +1,6 @@
 # Hi there, I'm Adeolu Amole 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=AdeoluAmole&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=AdeAdex&style=flat-square&color=blue)
 
 **Software Engineer | MERN-Stack Web Developer**
 
@@ -14,18 +14,40 @@
 
 I am a results-driven computer science graduate with a strong dedication to software development and over 2 years of hands-on experience. My expertise spans from front-end web development to back-end server scripting, covering a spectrum of technologies including HTML5, CSS3, JavaScript ES6, React.js, Node.js, MongoDB, Tailwind CSS, and more.
 
-### 🚀 Skills
+---
 
-#### Programming Languages & Tools
-- **Languages**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-- **Front-End**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-- **Back-End**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-- **Database**: ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- **Styling**: ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-- **State Management**: ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-- **Version Control**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+## 🛠️ Tech Stack
 
-#### Soft Skills
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+---
+
+## 🚀 Skills
+
+### Technical Skills
+- **Languages**: HTML5, CSS3, JavaScript, TypeScript
+- **Front-End**: React, Next.js
+- **Back-End**: Node.js, Express
+- **Database**: MongoDB
+- **Styling**: Bootstrap, Tailwind CSS, Sass
+- **State Management**: Redux
+- **Version Control**: Git, GitHub
+
+### Soft Skills
 - 🧠 Problem-solving
 - 🤝 Teamwork & Research
 - 🛠 Adaptability/Flexibility
@@ -80,6 +102,7 @@ I am a results-driven computer science graduate with a strong dedication to soft
 
 ![Adeolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeAdex&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeAdex&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AdeAdex&theme=radical)
 
 ---
 
@@ -100,4 +123,3 @@ I am a results-driven computer science graduate with a strong dedication to soft
 ---
 
 ![Coder GIF](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
