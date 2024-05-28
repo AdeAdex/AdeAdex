@@ -78,8 +78,8 @@ I am a results-driven computer science graduate with a strong dedication to soft
 
 ## 📈 GitHub Stats
 
-![Adeolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeoluAmole&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeoluAmole&layout=compact&theme=radical)
+![Adeolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeAdex&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeAdex&layout=compact&theme=radical)
 
 ---
 
