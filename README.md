@@ -12,7 +12,7 @@
 
 ## 📝 About Me
 
-I am a results-driven computer science graduate with a strong dedication to software development and over 2 years of hands-on experience. My expertise spans from front-end web development to back-end server scripting, covering a spectrum of technologies including HTML5, CSS3, JavaScript ES6, React.js, Node.js, MongoDB, Tailwind CSS, and more.
+I am a results-driven computer science graduate with a strong dedication to software development and over 2 years of hands-on experience. My expertise spans from front-end web development to back-end server scripting, covering a spectrum of technologies including HTML5, CSS3, JavaScript ES6, TypeScript, React.js, Next.js, Node.js, MongoDB, Tailwind CSS, and more.
 
 ---
 
