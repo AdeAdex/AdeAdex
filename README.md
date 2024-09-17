@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AdeAdex&style=flat-square&color=blue)
 
-**Software Engineer | MERN-Stack Web Developer**
+**Software Engineer || Full-Stack Web and Mobile JavaScript Developer (Next.js & MERN)**
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/adeolu-amole)](https://www.linkedin.com/in/adeolu-amole)
 [![Website Badge](https://img.shields.io/badge/Website-Dev%20Adex-brightgreen)](https://dev-adex.vercel.app)
@@ -12,7 +12,7 @@
 
 ## 📝 About Me
 
-I am a results-driven computer science graduate with a strong dedication to software development and over 2 years of hands-on experience. My expertise spans from front-end web development to back-end server scripting, covering a spectrum of technologies including HTML5, CSS3, JavaScript ES6, TypeScript, React.js, Next.js, Node.js, MongoDB, Tailwind CSS, and more.
+I am a results-driven Computer Science graduate with over 2 years of hands-on experience in software development. My expertise spans both front-end and back-end development, with a strong focus on JavaScript technologies. I specialize in building web and mobile applications using HTML5, CSS3, JavaScript (ES6+), TypeScript, React.js, Next.js, Node.js, MongoDB, Tailwind CSS, and more.
 
 ---
 
